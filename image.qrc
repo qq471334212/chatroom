@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/10.jpg</file>
+        <file>image/50.jpg</file>
+        <file>image/100.jpg</file>
+        <file>image/200.jpg</file>
+        <file>image/500.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>image/plane.png</file>
+        <file>image/rocket.png</file>
+        <file>image/21358791_095926150031_2.jpg</file>
+        <file>image/1-13113022420O92.jpg</file>
+        <file>image/123.gif</file>
+        <file>image/liaotianlist.png</file>
+        <file>image/chengyuanlist.png</file>
+        <file>image/quit.png</file>
+        <file>image/shuaxin.png</file>
+        <file>image/刷新.png</file>
+        <file>image/shexiangtou.jpg</file>
+        <file>image/摄像头.jpg</file>
+        <file>image/话筒.jpg</file>
+    </qresource>
+</RCC>
