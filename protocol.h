@@ -2,6 +2,9 @@
 #define PROTOCOL_H
 #include <QJsonObject>
 #include <QPair>
+/*
+ *数据包类型
+ * */
 class Protocol{
 public:
     enum Type{  //包类型
