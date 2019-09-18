@@ -1,6 +1,8 @@
 #ifndef CHATROOM_H
 #define CHATROOM_H
-
+/*
+ *房间管理系统
+ * */
 #include <QWidget>
 #include <QCloseEvent>
 #include <QListWidgetItem>
